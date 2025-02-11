@@ -1,4 +1,3 @@
-#A program that checks if a given year is a leap year.
 lst = [] 
 while True:
     print("Name-Avni singh \n SET-1D) Calculates the average of a list of numbers.")

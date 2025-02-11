@@ -1,4 +1,3 @@
-#A program that calculates the factorial of a number.
 while True:
     print(
         "Name: Avni Singh\nSET-1E\n"
