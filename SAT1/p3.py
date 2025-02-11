@@ -1,4 +1,4 @@
-#A program that calculates the average of a list of numbers.
+#A program that generates a random password of a specified length.
 import random
 import string
 
